@@ -1,0 +1,25 @@
+#_faceData {
+  padding: 0;
+  margin: auto;
+  display: block;
+  width: calc(100vw / 3);
+  height: calc(100vh / 3);
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+#_faceData2 {
+  /* padding: 0; */
+  /* margin: auto; */
+  display: none;
+  width: calc(100vw / 3);
+  height: calc(100vh / 3);
+  /* position: absolute; */
+  /* top: 0; */
+  /* bottom: 0; */
+  /* left: 0; */
+  /* right: 0; */
+}
